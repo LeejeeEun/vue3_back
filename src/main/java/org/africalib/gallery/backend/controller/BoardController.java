@@ -48,4 +48,3 @@ public class BoardController {  //BoardController
         return ResponseEntity.noContent().build();
     }
 }
-
